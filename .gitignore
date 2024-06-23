@@ -1,2 +1,4 @@
 *.js
 /problems
+*/node_modules
+*/dist
